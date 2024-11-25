@@ -1,3 +1,6 @@
+<div align="center">
+    <img src="https://img.freepik.com/vector-premium/ilustracion-vectorial-qa_1237743-80630.jpg?semt=ais_hybrid" alt="Masterhead Banner" style="width:70%; max-width:1000px;">    
+</div>
 <h1 align="center">Hi 👋, I'm Liz Giraldo</h1>
 <h3 align="center">A passionate Quality assurance from Colombia.</h3>
 <p align="center">
